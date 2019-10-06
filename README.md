@@ -36,7 +36,7 @@ export DIALOGFLOW_PROJECT_ID=YOUR-DIALOGFLOW-PROJECT-ID
 export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/ordertracker-isocuo-d7882fd63303.json"
 ```
 #### Wit AI:
-1. Import the project [Wit AI data](https://github.com/cooleraid/Telegram-chatbot-witai-dialogflow/blob/master/witai_data/MyFirstApp-2019-10-03-13-56-41.zip) into a new app on wit.ai.
+1. Import the project [Wit AI data](https://github.com/learningdollars/adeoluwaakinsanya-telegram-witai-chatbot/blob/master/witai_data/MyFirstApp-2019-10-03-13-56-41.zip) into a new app on wit.ai.
 2. Store the wit.ai server access token in your OS environment variable by running:
 
 ```bash
@@ -65,4 +65,4 @@ curl https://api.telegram.org/bot$TELEGRAM_ACCESS_TOKEN/setWebhook?url=https://Y
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://github.com/cooleraid/Telegram-chatbot-witai-dialogflow/blob/master/LICENSE)
+[MIT](https://github.com/learningdollars/adeoluwaakinsanya-telegram-witai-chatbot/blob/master/LICENSE)
